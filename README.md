@@ -1,2 +1,2 @@
 # academics-manager
-We developed this website using Javascript , html,css bootstrap.
+We developed this website using Javascript , html,css , Bootstrap.
